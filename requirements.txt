@@ -1,1 +1,11 @@
 streamlit
+db-dtypes
+google-cloud-bigquery
+google-cloud-storage
+langchain
+langchain_google_genai
+langchain-core
+langchain-community
+langchain-google-vertexai
+langchain-openai
+pydantic
